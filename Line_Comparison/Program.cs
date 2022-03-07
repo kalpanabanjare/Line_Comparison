@@ -7,6 +7,8 @@ namespace Line_Comparison
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Line Comparison Computation Program");
+            
+            //UC1
             Console.WriteLine("Enter X1 :"); // to take input from user for X1
             int X1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter X2 :"); // to take input from user for X2
