@@ -36,10 +36,16 @@ namespace Line_Comparison
             {
                 Console.WriteLine("Length are equal");
             }
-            else
-            {
-                Console.WriteLine("Length are not equal");
+            
+            //UC3
+            else if (Length_of_first_line > Length_of_second_line)
+                {
+                    Console.WriteLine("Line one is greater then Line two");
+                }
+                else
+                {
+                    Console.WriteLine("Line one is less then Line two");
+                } 
             }
-        }
     }
 }
