@@ -1,0 +1,15 @@
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\bin\Debug\net6.0\Line_Comparison.exe
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\bin\Debug\net6.0\Line_Comparison.deps.json
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\bin\Debug\net6.0\Line_Comparison.runtimeconfig.json
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\bin\Debug\net6.0\Line_Comparison.dll
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\bin\Debug\net6.0\Line_Comparison.pdb
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\obj\Debug\net6.0\Line_Comparison.csproj.AssemblyReference.cache
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\obj\Debug\net6.0\Line_Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\obj\Debug\net6.0\Line_Comparison.AssemblyInfoInputs.cache
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\obj\Debug\net6.0\Line_Comparison.AssemblyInfo.cs
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\obj\Debug\net6.0\Line_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\obj\Debug\net6.0\Line_Comparison.dll
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\obj\Debug\net6.0\refint\Line_Comparison.dll
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\obj\Debug\net6.0\Line_Comparison.pdb
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\obj\Debug\net6.0\Line_Comparison.genruntimeconfig.cache
+C:\Users\rahul\source\repos\Line_Comparison\Line_Comparison\obj\Debug\net6.0\ref\Line_Comparison.dll
